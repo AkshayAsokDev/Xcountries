@@ -10,3 +10,7 @@ Requirements
 3. Display the country name along with the flag image as shown in the screenshot.
 
 4. You must follow the good practice of doing error handling by catching the error and logging the error message on the console using console.error, while trying to fetch data from the mentioned API endpoint. Use the error message "Error fetching data: " followed by the error received.
+
+
+---------------
+Deployed Link : https://xcountries-nu-three.vercel.app/
